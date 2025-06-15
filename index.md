@@ -11,7 +11,7 @@ Welcome to this modular archive of thought and prediction systems. Click below t
 
 - [동서양 운명예측 체계의 통합적 분석](./kr_d1.html)
 - [출생 시점이 성격에 영향을 미치는 이유 – Aethymos 이론 기반 분석](./kr_d2.html)
-- [서양과 베다 점성술의 일일 예측 비교 분석](./kr_d3.html)
+- [서양과 베다 천리학의 일일 예측 비교 분석](./kr_d3.html)
 
 ## 🌍 English Documents
 
