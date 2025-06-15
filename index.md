@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fortune & Cognition
+---
+
+# 🧘‍♀️ Fortune & Cognition: Global Perspectives
+
 ## 🇰🇷 한국어 문서
 
 - [동서양 운명예측 체계의 통합적 분석](./kr/destiny_prediction.md)
