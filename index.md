@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fortune & Cognition Archive
+title: Fortuna Science
 ---
 
 # 📚 Fortune & Cognition: Korean & English Archives
