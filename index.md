@@ -18,3 +18,5 @@ Welcome to this modular archive of thought and prediction systems. Click below t
 - [Destiny Prediction Report – Comparative Overview](./en_d1.html)
 - [The Dancing Mind – Birth Timing and Brain Development](./en_d2.html)
 - [Comparing Western and Vedic Astrology in Daily Forecasting](./en_d3.html)
+- [Cassian’s Integrative Fate Framework](./en_d4.html)
+- 
