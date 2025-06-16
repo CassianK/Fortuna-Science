@@ -19,4 +19,3 @@ Welcome to this modular archive of thought and prediction systems. Click below t
 - [The Dancing Mind – Birth Timing and Brain Development](./en_d2.html)
 - [Comparing Western and Vedic Astrology in Daily Forecasting](./en_d3.html)
 - [Cassian’s Integrative Fate Framework](./en_d4.html)
-- 
